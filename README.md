@@ -1,2 +1,2 @@
 # aluraplus
-Aula do projeto de construção da plataforma alura Plus
+Aula do projeto de construção da plataforma Alura Plus
